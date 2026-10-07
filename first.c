@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 int main()
 {
 	int a = 0;
@@ -16,11 +17,4 @@ int main()
 	b = temp;
 
 	printf("Result %d %d\n", a, b);
-
-	return 0;
-
-
-
-
-
 }
